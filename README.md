@@ -78,4 +78,3 @@ Total Profit = SUM(Orders[Profit])
 
 ---
 
- 📂 Repository Structure
